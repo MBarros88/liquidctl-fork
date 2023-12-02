@@ -510,7 +510,7 @@ SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e71", ATTRS{idProduct}=="2009", TAG+="uacc
 SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e71", ATTRS{idProduct}=="200e", TAG+="uaccess"
 
 # NZXT RGB & Fan Controller
-SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e71", ATTRS{idProduct}=="2010", TAG+="uaccess"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e71", ATTRS{idProduct}=="2012", TAG+="uaccess"
 
 # NZXT RGB & Fan Controller (3+6 channels)
 SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e71", ATTRS{idProduct}=="2011", TAG+="uaccess"
